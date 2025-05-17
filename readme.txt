@@ -1,4 +1,1 @@
 ini file baru
-asdasdsadsada
-asdasdsadasdas
-asdadsadas
